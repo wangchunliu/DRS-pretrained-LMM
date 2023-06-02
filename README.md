@@ -1,4 +1,4 @@
-# [Pre-Trained Language-Meaning Models for Multilingual Parsing and Generation (ACL 2023 Findings)]()
+# [Pre-Trained Language-Meaning Models for Multilingual Parsing and Generation (ACL 2023 Findings)](https://arxiv.org/abs/2306.00124)
 
 ## Overview
 
@@ -8,7 +8,7 @@
 
 #### How to use
 ```bash
-git clone git@github.com:wangchunliu/DRS-pretrained-LMM.git
+git clone https://github.com/wangchunliu/DRS-pretrained-LMM.git
 cd DRS-pretrained-LMM
 ```
 

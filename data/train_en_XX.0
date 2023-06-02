@@ -1,0 +1,1 @@
+NEGATION -1 entity.n.01 PartOf +1 town.n.01 NEGATION -1 time.n.08 TPR now destroy.v.01 Patient -3 Time -1 Causer +1 fire.n.01
