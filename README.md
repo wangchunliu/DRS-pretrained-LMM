@@ -8,7 +8,7 @@
 
 #### How to use
 ```bash
-git clone git@github.com:wangchunliu/DRS-pretrained-LMM.git
+git clone https://github.com/wangchunliu/DRS-pretrained-LMM.git
 cd DRS-pretrained-LMM
 ```
 
